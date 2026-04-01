@@ -3,6 +3,7 @@ A PHP+MYSQL code to perform CRUD (Create Read Update Delete) OPERATIONS on STUDE
 2. Email
 3. Course
 4. Marks
+   
 Before Deleting <img width="1239" height="852" alt="image" src="https://github.com/user-attachments/assets/773b17a0-b920-4ec5-9cb8-7ea75846a9f4" />
 <img width="1504" height="946" alt="image" src="https://github.com/user-attachments/assets/8df39378-a71d-4f8b-8be7-c8851ff9441a" />
 After Deleting <img width="1283" height="863" alt="image" src="https://github.com/user-attachments/assets/aa0883f8-510d-4a49-902b-d892d16295d5" />
